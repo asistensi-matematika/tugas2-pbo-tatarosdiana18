@@ -1,9 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+NAMA: RISTA ROSDIANAWATI
 
-NRP: `isi nrp disini`
-
+NRP: 06111840000028
 
 ## DESKRIPSI SOAL
 Diberikan 2 `String` yang merepresentasikan 2 bilangan kompleks.
@@ -47,7 +46,14 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+SOAL 1
+
+![asis1](https://user-images.githubusercontent.com/56017428/66045064-29521b00-e54d-11e9-8bab-95ce5e3b2b92.PNG)
+
+SOAL 2
+
+![asis2](https://user-images.githubusercontent.com/56017428/66045067-29eab180-e54d-11e9-8a96-2ef902bc413c.PNG)
+
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
