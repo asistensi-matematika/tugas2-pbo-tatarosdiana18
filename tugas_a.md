@@ -52,7 +52,8 @@ SOAL 1
 
 SOAL 2
 
-![asis2](https://user-images.githubusercontent.com/56017428/66045067-29eab180-e54d-11e9-8a96-2ef902bc413c.PNG)
+![asis3](https://user-images.githubusercontent.com/56017428/66147103-53343c00-e638-11e9-9b75-43db0514adb5.PNG)
+
 
 
 ## UPLOAD
