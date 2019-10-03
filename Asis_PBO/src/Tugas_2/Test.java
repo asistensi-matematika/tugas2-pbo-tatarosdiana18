@@ -38,8 +38,8 @@ public class Test {
         case 2:
         {
             OperasiBilKompleks b1 = new OperasiBilKompleks(0,3);
-            OperasiBilKompleks b2 = new OperasiBilKompleks(3,0);
-            OperasiBilKompleks b3 = new OperasiBilKompleks(3,0);
+            OperasiBilKompleks b2 = new OperasiBilKompleks(0,3);
+            OperasiBilKompleks b3 = new OperasiBilKompleks(0,3);
             System.out.print("\nSoal: ");
             b1.info();
             b2.info();
