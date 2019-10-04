@@ -48,11 +48,12 @@ output: -27i3
 ## screenshot hasil
 SOAL 1
 
-![asis1](https://user-images.githubusercontent.com/56017428/66045064-29521b00-e54d-11e9-8bab-95ce5e3b2b92.PNG)
+![soal1](https://user-images.githubusercontent.com/49512967/66192977-d64aa600-e6bb-11e9-97d2-af08e42f6688.PNG)
+![soal1b](https://user-images.githubusercontent.com/49512967/66192979-d6e33c80-e6bb-11e9-8e46-a4ff020e1c0e.PNG)
 
-SOAL 2
+SOAL EXTRA MILES
+![soal2](https://user-images.githubusercontent.com/49512967/66192980-d6e33c80-e6bb-11e9-86e8-1a15c90dba74.PNG)
 
-![asis3](https://user-images.githubusercontent.com/56017428/66147103-53343c00-e638-11e9-9b75-43db0514adb5.PNG)
 
 
 
